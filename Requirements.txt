@@ -3,6 +3,6 @@ pycaret==3.3.1
 pandas
 numpy
 Image
-sklearn.metrics
-matplotlib.pyplot
+scikit-learn
+matplotlib
 seaborn
