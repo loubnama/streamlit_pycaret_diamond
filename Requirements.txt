@@ -1,8 +1,0 @@
-streamlit
-pycaret
-pandas
-numpy
-Image
-sklearn
-import matplotlib.pyplot as plt
-seaborn
