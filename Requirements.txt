@@ -1,0 +1,9 @@
+streamlit
+pycaret.datasets
+pycaret.classification
+pandas
+numpy
+Image
+sklearn.metrics
+matplotlib.pyplot
+seaborn
